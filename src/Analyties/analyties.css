@@ -1,0 +1,27 @@
+.analyties-header{
+    display: flex;
+    flex-direction: row;
+}
+/* .logo-container{
+    width:200px;
+} */
+.logo{
+    width: 200px;
+}
+.analyties-text{
+    text-align: end;
+}
+
+.analyties-table{
+    height: 50px;
+}
+
+
+
+
+
+
+
+.pie-chart{
+    height:400px;
+}
